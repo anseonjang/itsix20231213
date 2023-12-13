@@ -429,6 +429,7 @@ section#portfolio {
     padding: 200px 0;
     /* 상하, 좌우 */
     z-index: 1;
+    overflow: hidden;
 }
 
 /* 폿폴제목 */
